@@ -1,0 +1,15 @@
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/bin/Debug/net7.0/Variables (Part 2)
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/bin/Debug/net7.0/Variables (Part 2).deps.json
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/bin/Debug/net7.0/Variables (Part 2).runtimeconfig.json
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/bin/Debug/net7.0/Variables (Part 2).dll
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/bin/Debug/net7.0/Variables (Part 2).pdb
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/Variables (Part 2).csproj.AssemblyReference.cache
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/Variables (Part 2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/Variables (Part 2).AssemblyInfoInputs.cache
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/Variables (Part 2).AssemblyInfo.cs
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/Variables (Part 2).csproj.CoreCompileInputs.cache
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/Variables (Part 2).dll
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/refint/Variables (Part 2).dll
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/Variables (Part 2).pdb
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/Variables (Part 2).genruntimeconfig.cache
+/Users/seb/Documents/Development/C#/Learn-c-/Variables (Part 2)/Variables (Part 2)/obj/Debug/net7.0/ref/Variables (Part 2).dll
