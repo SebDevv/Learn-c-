@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\bin\Debug\net7.0\String Manipulation.exe
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\bin\Debug\net7.0\String Manipulation.deps.json
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\bin\Debug\net7.0\String Manipulation.runtimeconfig.json
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\bin\Debug\net7.0\String Manipulation.dll
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\bin\Debug\net7.0\String Manipulation.pdb
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\String Manipulation.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\String Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\String Manipulation.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\String Manipulation.AssemblyInfo.cs
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\String Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\String Manipulation.dll
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\refint\String Manipulation.dll
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\String Manipulation.pdb
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\String Manipulation.genruntimeconfig.cache
+C:\Users\sebas\Documents\Learning C#\Learn-c-\String Manipulation\String Manipulation\obj\Debug\net7.0\ref\String Manipulation.dll
