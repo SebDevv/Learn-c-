@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{854F0D75-536A-4C16-8D8E-2582DB0979BA}|Default">
-  <MonoDevelop.Ide.ItemProperties.Console_220Methods FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console Methods/Program.cs">
+    <Files>
+      <File FileName="Console Methods/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Console Methods" expanded="True">
+            <Node name="Console Methods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Console_220Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

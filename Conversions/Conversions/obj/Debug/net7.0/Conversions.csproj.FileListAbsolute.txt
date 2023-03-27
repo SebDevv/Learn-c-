@@ -1,0 +1,15 @@
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/bin/Debug/net7.0/Conversions
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/bin/Debug/net7.0/Conversions.deps.json
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/bin/Debug/net7.0/Conversions.runtimeconfig.json
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/bin/Debug/net7.0/Conversions.dll
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/bin/Debug/net7.0/Conversions.pdb
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/Conversions.csproj.AssemblyReference.cache
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/Conversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/Conversions.AssemblyInfoInputs.cache
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/Conversions.AssemblyInfo.cs
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/Conversions.csproj.CoreCompileInputs.cache
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/Conversions.dll
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/refint/Conversions.dll
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/Conversions.pdb
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/Conversions.genruntimeconfig.cache
+/Users/seb/Documents/Development/C#/Learn-c-/Conversions/Conversions/obj/Debug/net7.0/ref/Conversions.dll

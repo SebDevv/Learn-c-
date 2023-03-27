@@ -10,9 +10,9 @@
             Console.ReadKey(); // This will take a single string value and return the value as key info.
         */
 
-   
+
         // This is the single character input example, this should return 83 if you enter upper case 'S' or 115 if you enter lowercase 's'.
-       
+
         Console.WriteLine("Enter a string and press enter"); // Write out to user to enter a value and then place the cursor on the next line.
         int asciiValue = Console.Read(); // Wait for user to enter a character for example 'S'.
         Console.WriteLine("ASCII Value is {0}",asciiValue); // After user enters a character and hits enter this will display the value in the ASCII format.
@@ -24,6 +24,11 @@
         string inputString = Console.ReadLine(); // Wait for user to enter a string and press enter.
         Console.WriteLine("The String value you entered is {0}", inputString); // Once the user enters a string and presses enter, this will print the string out.
         Console.ReadKey(); // This is just waiting for the user to enter some key input so that the terminal can end.
+
+        Console.ForegroundColor = ConsoleColor.Red; // This will set the text colour to red.
+        Console.BackgroundColor = ConsoleColor.White; // This will set the background colour to white.
+        Console.Clear(); // This will clear the console of any text.
+
 
         // You can find more information here - https://learn.microsoft.com/en-us/dotnet/api/system.console?view=net-7.0
     }
